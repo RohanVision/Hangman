@@ -22,7 +22,7 @@ A classic Hangman word guessing game built with React, TypeScript, and Vite. Pla
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/RohanVision/Hangman.git
 ```bash
 git clone <your-repository-url>
 cd Hangman
